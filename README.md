@@ -6,7 +6,7 @@ Tinder Auto Right or Left based on Blacklist or Empty profile info.
 A lot of setting at the begging of the script.  ( tinder web )
 This code was created only for educational / fun purposes.
 
-###### This script is based on https://github.com/jaflesch tinder-autolike 
+##### This script is based on https://github.com/jaflesch tinder-autolike 
 - I got involved into this code just to learn more javascript.
 - I made a lot of changes, and I didn't know how to update jaflesch repository and I don't how involved they are in this project.
 - I also opened this repository to learn GITHUB and GITHUB collaboration. 
