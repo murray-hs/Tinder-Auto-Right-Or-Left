@@ -39,9 +39,9 @@ I created a lot of settings to see on the console
 open inspect 
 togle device, and set to any device.
 
-**_You need to see just the profile and the buttons
-The script won't work well
-IF You see the LEFT side with My Profile, Matches, Messages, the the pictures of your matches._**
+* You need to see just the profile and the buttons
+* The script won't work well
+* IF You see the LEFT side with My Profile, Matches, Messages, the the pictures of your matches.
 
 I was trying to automatically change windows size or togle device.
 
