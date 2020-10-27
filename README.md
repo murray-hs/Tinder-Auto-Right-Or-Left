@@ -23,21 +23,22 @@ I created a lot of settings to see on the console
 
 ### Room For Improvement.
 
-1 - check how many pictures and / or click on pictures.
-2 - I noticed there are profile that received a lot of likes, tinder show the option to SUPER Like that profile. 
-2.a auto click super like or not thanks button. if no thanks is clicked script will regular LIKE the profile
-2.b I'd auto click No Thanks  ( Accessibility info:  Name:  NO THANKS  Role: button )
-3 - I noticed that Recently Active notification is, sometime free and I also noticed ON LINE activity, But I do not see it all the time. 
-3.a I added a code to checked Reciently Active, - I coudn't test it and maybe we can do the some with ON LINE activity. 
-4 - I exit the script when Out of Like. it need Enhancement. 
-5 - Update a blacklist for local driver instead from the script 
-6 - Automatically change windows size or togle device.
+* 1 - check how many pictures and / or click on pictures.
+* 2 - I noticed there are profile that received a lot of likes, tinder show the option to SUPER Like that profile. 
+** 2.a auto click super like or not thanks button. if no thanks is clicked script will regular LIKE the profile
+** 2.b I'd auto click No Thanks  ( Accessibility info:  Name:  NO THANKS  Role: button )
+* 3 - I noticed that Recently Active notification is, sometime free and I also noticed ON LINE activity, But I do not see it all the time. 
+** 3.a I added a code to checked Reciently Active, - I coudn't test it and maybe we can do the some with ON LINE activity. 
+* 4 - I exit the script when Out of Like. it need Enhancement. 
+* 5 - Update a blacklist for local driver instead from the script 
+* 6 - Automatically change windows size or togle device.
 
 
 ### The Script Works Well When
 
-open inspect 
-togle device, and set to any device.
+Open inspect.
+
+Togle device, and set to any device.
 
 * You need to see just the profile and the buttons
 * The script won't work well
