@@ -7,7 +7,7 @@ Tinder Auto Right or Left based on Blacklist or Empty profile info.
 A lot of setting at the begging of the script.  ( tinder web )
 This code was created only for educational / fun purposes.
 
-### This script is based on https://github.com/jaflesch tinder-autolike 
+#### This script is based on https://github.com/jaflesch tinder-autolike 
 - I got involved into this code just to learn more javascript.
 - I made a lot of changes, and I didn't know how to update jaflesch repository and I don't how involved they are in this project.
 - I also opened this repository to learn GITHUB and GITHUB collaboration. 
@@ -37,7 +37,8 @@ I created a lot of settings to see on the console
 ### The Script Works Well When
 
 open inspect 
-togle device, and set to any device. 
+togle device, and set to any device.
+
 *_you need to see just the profile and the buttons._*
 *_The script won't work well_*
 *_IF You see the LEFT side with My Profile, Matches, Messages, the the pictures of your matches._*
