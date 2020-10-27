@@ -21,7 +21,7 @@ This code was created only for educational / fun purposes.
 
 I created a lot of settings to see on the console 
 
-### there is room for improvement.
+### Room For Improvement.
 
 1 - check how many pictures and / or click on pictures.
 2 - I noticed there are profile that received a lot of likes, tinder show the option to SUPER Like that profile. 
@@ -34,7 +34,7 @@ I created a lot of settings to see on the console
 6 - Automatically change windows size or togle device.
 
 
-### The Script works well when
+### The Script Works Well When
 
 open inspect 
 togle device, and set to any device. 
@@ -49,4 +49,4 @@ but I think the script needs to be redesing....
 ### Open to hear new ideas to create a Chrome Extension
 
 
-### SOON I WILL UPLOAD THE CODE 
+### Soon I'll Upload The Code
