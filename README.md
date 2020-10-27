@@ -44,7 +44,7 @@ IF You see the LEFT side with My Profile, Matches, Messages, the the pictures of
 ```
 I'd like to automatically change windows size or togle device.
 
-Last but not less. it will be great to create a Chrome extension to START and STOP the script. 
+Last but not less. Create a Chrome extension to START and STOP the script. I'll upload what I have done so far
 but I think the script needs to be redesing.... 
 ### Open to hear new ideas to create a Chrome Extension
 
