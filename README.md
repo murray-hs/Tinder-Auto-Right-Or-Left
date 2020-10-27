@@ -1,6 +1,6 @@
-##### My javascript level is: Advance Beginner. | ##### Last UPDATED: 2020-27-10  
+##### My javascript level is: Advance Beginner. | Last Updated: 2020-27-10  
 
-# Tinder-Auto-Right-Or-Left
+# Tinder Auto Right Or Left
 Tinder Auto Right or Left based on Blacklist or Empty profile info.  
 A lot of setting at the begging of the script.  ( tinder web )
 This code was created only for educational / fun purposes.
