@@ -50,4 +50,4 @@ but I think the script needs to be redesing....
 ### Open to hear new ideas to create a Chrome Extension
 
 
-#### Soon I'll Upload The Code
+#### Code will be Uploaded soon
