@@ -1,9 +1,9 @@
 ##### My javascript level is: Advance Beginner. | Last Updated: 2020-27-10  
 
 # Tinder Auto Right Or Left
-Tinder Auto Right or Left based on Blacklist or Empty profile info and other customized settings.  
-A lot of setting at the begging of the script.  ( tinder web )
-This code was created only for educational / fun purposes.
+* Tinder Auto Right or Left based on Blacklist or Empty profile information and other customized settings.  
+* Seetings are located at the the begging of the script.  ( Tinder web )
+This code was created for educational and fun purposes.
 
 ##### This script is based on https://github.com/jaflesch tinder-autolike 
 - I got involved into this code just to learn more javascript.
