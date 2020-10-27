@@ -43,11 +43,11 @@ Togle device, and set to any device.
 The script won't work well 
 IF You see the LEFT side with My Profile, Matches, Messages, the the pictures of your matches.
 ```
-I was trying to automatically change windows size or togle device.
+I'd like to automatically change windows size or togle device.
 
 Last but not less. it will be great to create a Chrome extension to START and STOP the script. 
 but I think the script needs to be redesing.... 
 ### Open to hear new ideas to create a Chrome Extension
 
 
-### Soon I'll Upload The Code
+#### Soon I'll Upload The Code
