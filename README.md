@@ -3,19 +3,18 @@
 # Tinder Auto Right Or Left
 * Tinder Auto Right or Left based on Blacklist or Empty profile information and other customized settings.  
 * Seetings are located at the the begging of the script.  ( Tinder web )
-- This code was created for educational and fun purposes.
-
-- This script is based on https://github.com/jaflesch tinder-autolike 
-- I got involved into this code just to learn more javascript.
-- I've made a lot of changes, and I didn't know how to update jaflesch repository and I don't how involved they are in this project.
-- I also opened this repository to learn GITHUB and GITHUB collaboration. 
+* This code was created for educational and fun purposes.
+* This script is based on https://github.com/jaflesch tinder-autolike 
+* I got involved into this code just to learn more javascript.
+* I've made a lot of changes, and I didn't know how to update jaflesch repository and I don't how involved they are in this project.
+* I also opened this repository to learn GITHUB and GITHUB collaboration. 
 
 ### How to use the script
-- Access https://tinder.com
-- And then depending on the website, go to https://tinder.com/app/recs or to https://www.okcupid.com/doubletake
-- Open the browser's console
-- Copy the JS file
-- Run the script
+* Access https://tinder.com
+* And then depending on the website, go to https://tinder.com/app/recs or to https://www.okcupid.com/doubletake
+* Open the browser's console
+* Copy the JS file
+* Run the script
 
 I created a lot of settings to see on the console 
 
