@@ -39,7 +39,7 @@ I created a lot of settings to see on the console
 open inspect 
 togle device, and set to any device.
 
-*_you need to see just the profile and the buttons._*
+_*you need to see just the profile and the buttons.*_
 *_The script won't work well_*
 *_IF You see the LEFT side with My Profile, Matches, Messages, the the pictures of your matches._*
 
