@@ -1,5 +1,7 @@
 ##### My javascript level is: Advance Beginner. | Last Updated: 2020-27-10  
-
+File is located inside of Chrome Extension Folder. 
+Filename: 2020.js 
+Chrome Extension: work in progress.
 # Tinder Auto Right Or Left
 * Tinder Auto Right or Left based on Blacklist or Empty profile information and other customized settings.  
 * Seetings are located at the the begging of the script.  ( Tinder web )
