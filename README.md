@@ -13,7 +13,7 @@
 
 ### How to use the script
 * Access https://tinder.com
-* And then depending on the website, go to https://tinder.com/app/recs or to https://www.okcupid.com/doubletake
+* And then depending on the website, go to https://tinder.com/app/recs 
 * Open the browser's console
 * Copy the JS file
 * Run the script
