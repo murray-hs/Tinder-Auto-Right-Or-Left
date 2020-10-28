@@ -1,0 +1,73 @@
+
+.container {
+    margin: auto;
+    min-width: 200px;
+    text-align: center;
+    padding: 0.5rem;
+    background-color: #000000;
+}
+
+
+
+a:link, a:visited {
+	text-align: center;
+	background-color:#FF0004;
+	color: white;
+	 padding: 10px 20px;
+  margin-left: 10px;
+  margin-right:10px;
+	 text-decoration: none;
+	
+}
+
+a:hover, a:active  {
+	color: white;
+	background-color:#03a9f4;
+}
+
+
+
+h1, h2,h3, p {
+text-align:center; 
+color: #ffffff;
+
+}
+
+
+.icon {
+  max-height: 90px;
+}
+button {
+  border: 1px solid #2196f3;
+  background: #2196f3;
+  color: white;
+  padding: 0.5rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  outline: none;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+button:hover {
+  border: 1px solid #03a9f4;
+  background: #03a9f4;
+}
+button:disabled {
+  pointer-events: none;
+  opacity: 0.5;
+}
+.not-tinder {
+display: none;  
+	font-size: 1rem;
+  text-align:center; 
+  color: #ffffff; 
+	margin-bottom: 20px;
+}
+
+.refresh-note {
+  margin: 0.75rem;
+  color: #ffffff;
+  font-style: italic;
+}
+
+
