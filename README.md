@@ -1,5 +1,5 @@
 javascript script 
-##### My javascript level is: Advance Beginner. | Last Updated: 2020-27-10  
+##### My javascript level is: Advance Beginner. | First update: 2020-26-10 Last Updated: 2020-30-10  
 - Script is located inside of Chrome Extension Folder. 
 - Filename: 2020.js ( works )
  - Chrome Extension: work in progress... ( Extension is not working... correctly )
