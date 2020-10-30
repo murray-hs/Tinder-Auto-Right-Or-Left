@@ -1,8 +1,9 @@
+javascript script 
 ##### My javascript level is: Advance Beginner. | Last Updated: 2020-27-10  
 - Script is located inside of Chrome Extension Folder. 
 - Filename: 2020.js ( works )
  - Chrome Extension: work in progress... ( Extension is not working... correctly )
-# Tinder Auto Right Or Left ( Tinder Sweeper, Tindoer Auto Sweeper. Tinder Auto, Tinder Auto Like or not ) 
+# Tinder Auto Right Or Left ( Tinder Sweeper, Tinder Auto Sweeper. Tinder Auto, Tinder Assistant, Tinder Auto Like or not ) 
 * Tinder Auto Right or Left based on Blacklist or Empty profile information and other customized settings.  
 * Seetings are located at the the begging of the script.  ( Tinder web )
 * This code was created for educational and fun purposes.
